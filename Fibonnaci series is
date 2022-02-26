@@ -1,0 +1,12 @@
+N=int(input("enter the value:")) 
+A=0
+B=1
+C=A+B
+Print(A) 
+Print(B) 
+for I in range(3,N+1):
+    Print(c) 
+    A=B
+    B=C
+    C=A+B
+Print(c) 
