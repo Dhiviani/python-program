@@ -1,0 +1,10 @@
+def string(s):
+    d={}
+    for I in s:
+        if I in d:
+           d[i]=d[i]+1
+        else:
+           d[i]=1
+s="Mississippi"
+string(s) 
+       
