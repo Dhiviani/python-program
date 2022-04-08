@@ -1,10 +1,11 @@
 def string(s):
     d={}
-    for I in s:
-        if I in d:
+    for i in s:
+        if i in d:
            d[i]=d[i]+1
         else:
            d[i]=1
+    print(d) 
 s="Mississippi"
 string(s) 
        
