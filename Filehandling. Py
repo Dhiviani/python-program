@@ -1,0 +1,16 @@
+#Read file
+File=open("my file.txt", "r") 
+Print(File.read())
+Print(File.readline()) 
+
+File=open("my file.txt", "r") 
+for x in f;
+    print(x) 
+
+#write file
+File=open("my file", "w") 
+File. write(" New file") 
+
+#append 
+File=open("my file", "a") 
+File.write("content") 
